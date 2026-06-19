@@ -1,0 +1,5 @@
+<h2 id="otp-display">
+        {x > 0
+          ? "Click 'Generate OTP' to get a code"
+          : "OTP expired. Click the button to generate a new OTP."}
+      </h2>
